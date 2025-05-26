@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"the-uno/greeting"
+	greeting "the-uno/greetings"
 )
 
 func main() {
