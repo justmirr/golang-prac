@@ -1,3 +1,6 @@
+/* These are used to control the flow based on conditions. The condition must not be enclosed in parentheses,
+but braces {} are required. You can also declare variables inside the if statement, scoped only to that block. */
+
 package main
 
 import "fmt"

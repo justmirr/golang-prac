@@ -1,3 +1,7 @@
+/* In Go, an array is a fixed-size, ordered collection of elements of the same type. The size of an array is part of its type,
+which means arrays have a fixed length that cannot be changed after declaration. These are used to store data of different
+types (a single type per array), which can be accessed using an index. */
+
 package main
 
 import "fmt"

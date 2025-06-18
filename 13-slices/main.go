@@ -1,3 +1,8 @@
+/* Slices are a powerful and flexible alternative to arrays. Unlike arrays, slices are dynamically sized and are used in
+most real-world applications. A slice provides a more convenient and efficient way to work with sequences of data.
+
+Slices have a capacity that dynamically increases as values are appended to them. */
+
 package main
 
 import (

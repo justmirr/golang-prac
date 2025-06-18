@@ -1,3 +1,6 @@
+/* We can use range for iterating over a range of indexes in arrays, slices, or maps. Range provides keys and
+values in variables  */
+
 package main
 
 import "fmt"

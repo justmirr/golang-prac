@@ -1,3 +1,6 @@
+/* Maps in Go are similar to Dictionaries, which store key-value pairs. We can define the type of keys as well as values
+when creating a map. If a key does not exist in a map, it returns a zero value. */
+
 package main
 
 import "fmt"

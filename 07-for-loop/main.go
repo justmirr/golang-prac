@@ -1,3 +1,7 @@
+/* the for loop is the only looping construct provided by the language, but it is highly flexible and can be used in a
+variety of ways to fit different scenarios. Unlike other programming languages that have separate while or do-while loops,
+Go uses different forms of the for loop to replicate their behavior.  */
+
 package main
 
 import "fmt"

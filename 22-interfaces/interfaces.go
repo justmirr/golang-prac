@@ -1,3 +1,8 @@
+/* Interfaces are a powerful feature that allows you to define a set of method signatures without implementing them.
+Any type that implements those methods automatically satisfies the interface, without needing explicit declarations.
+This enables polymorphism - different types can be treated the same if they implement the same interface.
+Interfaces are widely used in Go for writing flexible, modular, and testable code. */
+
 package main
 
 import "fmt"

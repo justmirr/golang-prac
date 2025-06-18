@@ -1,3 +1,8 @@
+/* A struct (short for “structure”) in Go is a composite data type that groups variables (called fields) under a single name.
+Each field can have a different kind. Structs are used to model real-world entities and represent objects with properties.
+
+Think of a struct as a custom data type you define yourself, just like a class without methods (although methods can be associated later). */
+
 package main
 
 import "fmt"

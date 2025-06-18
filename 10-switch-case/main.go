@@ -1,3 +1,7 @@
+/* The switch statement is a clean and powerful way to perform multiple conditional checks. It evaluates expressions and
+executes the matching case block. Unlike some other languages, Go’s switch does not require explicit break statements -
+each case breaks automatically after execution, preventing fallthrough unless explicitly stated. */
+
 package main
 
 import (
